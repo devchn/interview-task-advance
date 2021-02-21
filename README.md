@@ -2,7 +2,11 @@
 
 ## UI
 
-![](./images/1.png)
+![](./images/3.png)
+
+## 最终效果
+
+https://qinwl.gitee.io/interview-task/
 
 ## 任务描述
 
@@ -20,8 +24,10 @@
 
 1. 实现上一个任务 todolist 的所有功能，todolist 的数据使用区块链保存
 2. 添加一个“输出区块链”按钮，点击后，可以在 console 中看到区块链的状态(直接将保存区块链的变量，console.log 出来即可)
-3. 生成一个区块的时候，console 中输出一下这个区块
-4. 每个 todo 项，添加以下内容
+3. 添加生成区块剩余秒数
+4. 新增一个 QUEUE 表，用来展示还没上链的交易记录
+5. 生成一个区块的时候，console 中输出一下这个区块
+6. 每个 todo 项，添加以下内容
     - 添加 prevHash 标签，显示当前 todo 项所在区块的上一个区块的 hash
     - 添加 hash 标签，显示当前 todo 项所在区块的 hash
     - 添加 txhash 标签，显示当前 todo 项所在交易的 hash

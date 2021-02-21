@@ -4,7 +4,7 @@
 
 ![](./images/3.png)
 
-## 最终效果
+## 最终效果参考
 
 https://qinwl.gitee.io/interview-task/
 

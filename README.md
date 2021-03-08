@@ -4,6 +4,8 @@
 
 ![](./images/3.png)
 
+(样式不必与此图一模一样，内容相同即可)
+
 ## 最终效果参考
 
 https://qinwl.gitee.io/interview-task/

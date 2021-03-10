@@ -8,7 +8,7 @@
 
 ## 最终效果参考
 
-https://qinwl.gitee.io/interview-task/
+[最终效果参考](https://qinwl.gitee.io/interview-task/)
 
 ## 任务描述
 
